@@ -1,16 +1,29 @@
 # e_commerce_app
 
-A new Flutter project.
+FULL FUNCTIONALITY E. COMMERCE APP
 
-## Getting Started
+(GROCERY SHOP) WITH WEB ADMIN PANEL.
 
-This project is a starting point for a Flutter application.
+• Used Firebase for authentication, storage, and
 
-A few resources to get you started if this is your first Flutter project:
+database. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Used Provider state management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The code is written in a clean and organized way for easy maintenance and scalability. Users can browse products, add items to cart
+
+and Wishlist, checkout, and manage their profile.
+
+• Admins can manage products, orders, and users from the admin panel.
+
+• The app integrates with Firebase Realtime
+
+Database and Cloud Firestore
+
+• Responsive Ul • Animation
+
+Continuously worked on improving the
+
+app's performance and functionality
+
+
